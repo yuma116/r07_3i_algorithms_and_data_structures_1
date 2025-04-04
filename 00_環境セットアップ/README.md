@@ -20,14 +20,14 @@
 	- ⑪ ウィンドウ内の適当な箇所をクリックし、選択されているのを外す
 	- ⑫ `OK`をクリックする
 
-![](materials/Pasted%20image%2020250404141254.png)
+![](materials/Pastedimage20250404141254.png)
 図1
 
-![](materials/Pasted%20image%2020250404141812.png)
+![](materials/Pastedimage20250404141812.png)
 図2
 
-![](materials/Pasted%20image%2020250404141911.png)
+![](materials/Pastedimage20250404141911.png)
 図3p
 
-![](materials/Pasted%20image%2020250404142925.png)
+![](materials/Pastedimage20250404142925.png)
 図4
